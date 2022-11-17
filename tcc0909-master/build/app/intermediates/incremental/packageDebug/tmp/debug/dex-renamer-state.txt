@@ -1,0 +1,4 @@
+#Thu Nov 17 01:23:26 BRT 2022
+base.0=C\:\\Users\\jvbrs\\Pictures\\BD 2.0 TCC ATUALIZADO 2.5 NOVA HOME\\tcc0909-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
